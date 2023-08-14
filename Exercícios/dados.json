@@ -1,0 +1,16 @@
+{
+    "tipo_cartao": [
+        "blue",
+        "silver",
+        "platinum",
+        "gold"
+    ],
+    "escolaridade": [
+        "mestrado",
+        "graduacao",
+        "na",
+        "doutorado",
+        "ensino medio",
+        "sem educacao formal"
+    ]
+}
