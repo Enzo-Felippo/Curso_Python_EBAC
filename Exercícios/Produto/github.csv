@@ -1,0 +1,26 @@
+Rank,Nome,Linguagem,Estrelas,Estrelas_Hoje,Forks
+01,mistralai/mistral-src,Python,"1,374",327,75
+02,microsoft/autogen,Jupyter Notebook,"1,552",561,170
+03,airbnb/javascript,JavaScript,"138,026","1,245","26,196"
+04,localstack/localstack,Python,"48,966",236,"3,697"
+05,wagtail/wagtail,Python,"15,800",58,"3,364"
+06,EbookFoundation/free-programming-books,,"299,115",123,"57,300"
+07,sczhou/ProPainter,Python,"2,232",171,222
+08,microsoft/PowerToys,C#,"96,501",769,"5,660"
+09,jacklevin74/xenminer,Python,142,36,101
+10,R3nzTheCodeGOD/R3nzSkin,C++,"3,074",45,488
+11,CodeWithHarry/Sigma-Web-Dev-Course,HTML,192,47,75
+12,getify/You-Dont-Know-JS,,"171,637",79,"33,079"
+13,microsoft/terminal,C++,"90,686",47,"8,036"
+14,QwenLM/Qwen,Python,"5,073",38,364
+15,python-poetry/poetry,Python,"26,778",9,"2,096"
+16,streamlit/streamlit,Python,"27,415",21,"2,438"
+17,aigc-apps/sd-webui-EasyPhoto,Python,"2,179",30,154
+18,facebookresearch/detectron2,Python,"26,682",112,"7,049"
+19,asdcorp/ohook,C,494,141,50
+20,vespa-engine/vespa,Java,"4,776",33,554
+21,Ebazhanov/linkedin-skill-assessments-quizzes,Python,"26,730",25,"13,343"
+22,dotnet/maui,C#,"19,936",65,"1,375"
+23,521xueweihan/HelloGitHub,Python,"75,897",46,"9,329"
+24,chaitin/SafeLine,C++,"4,541",24,295
+25,VASTDynamics/Vaporizer2,C++,151,27,9
